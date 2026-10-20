@@ -45,7 +45,7 @@ SCT_WD_1
 
 ## Author
 
-**Bhaskar Sharma**
+**RAMSWAROOP CHOYAL**
 SkillCraft Technology - Web Development Intern
 
 ## Project Preview
